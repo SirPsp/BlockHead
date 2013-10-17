@@ -1,0 +1,4 @@
+main-class = net.playsocket.blockhead.BlockHead
+name=BlockHead
+author = SirPsp
+version = 1.01
